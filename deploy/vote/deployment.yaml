@@ -20,7 +20,7 @@ spec:
         tire: front
     spec:
       containers:
-      - image: schoolofdevops/vote:v1
+      - image: schoolofdevops/vote:sqd
         name: vote
         resources: {}
 status: {}
